@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="16"
+    density="hdpi"
+    format="7"
+    timestamp="16438084507585"
+    token="-6335861508466517777" >
+
+    <task
+        name="javac"
+        duration="80" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="28" />
+    <task
+        name="verifier"
+        duration="1" />
+
+    <artifact
+        location="G:\Simone\Programmazione\Android\StreetFinder\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="16438084507585" >
+        <artifact
+            location="G:\Simone\Programmazione\Android\StreetFinder\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
