@@ -1,3 +1,5 @@
+<h1>THIS IS AN OLD APP AND I'M NOT WORKING ON IT ANYMORE SO PLEASE DON'T ASK ME TO PROVIDE SOME SUPPORT</h1>
+
 <h3>Autonomous car with Arduino UNO, Android and OpenCV</h3>
 
 <h4>This is an old and unoptimised piece of software. I am sorry but right now I have no intention of working on it.</h4>
