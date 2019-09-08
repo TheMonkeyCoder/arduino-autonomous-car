@@ -1,8 +1,6 @@
-<h1>THIS IS AN OLD APP AND I'M NOT WORKING ON IT ANYMORE SO PLEASE DON'T ASK ME TO PROVIDE SOME SUPPORT</h1>
+<h2>THIS IS AN OLD AND UNOPTIMIZED PIECE OF SOFTWARE AND I'M NOT WORKING ON IT ANYMORE SO PLEASE DON'T ASK ME TO PROVIDE SOME SUPPORT.</h2>
 
 <h3>Autonomous car with Arduino UNO, Android and OpenCV</h3>
-
-<h4>This is an old and unoptimised piece of software. I am sorry but right now I have no intention of working on it.</h4>
 
 Model car which can drive without human input. It is capable of following the street shape, with the help of an Android smartphone mounted in front of it. An application employs phone's camera to detect street lines and sends data to Arduino Uno via Bluetooth. Arduino manages all the car movements, including the obstacle overtaking, achieved through the use of ultrasonic sensors.
 
