@@ -2,7 +2,7 @@
 
 <h3>Autonomous car with Arduino UNO, Android and OpenCV</h3>
 
-Model car which can drive without human input. It is capable of following the street shape, with the help of an Android smartphone mounted in front of it. An application employs phone's camera to detect street lines and sends data to Arduino Uno via Bluetooth. Arduino manages all the car movements, including the obstacle overtaking, achieved through the use of ultrasonic sensors.
+Model car that can drive without human input. It is capable of following the street shape with the help of an Android smartphone mounted on the front. An application employs phone's camera to detect street lines and sends data to Arduino Uno via Bluetooth. Arduino manages all car movements, including obstacle overtaking, achieved through the use of ultrasonic sensors.
 
 Video demonstration: https://youtu.be/kmkgAZnK3Eg
 
